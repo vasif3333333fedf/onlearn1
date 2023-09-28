@@ -1,0 +1,41 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}
+@import url("https://fonts.googleapis.com/css?family=Inter:700,400|Raleway:800,600,500,400,700|Kanit:400|Nunito+Sans:700,600|Maven+Pro:700,400");
+@font-face {
+  font-family: "Clash Display-Semibold";
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/6325672c51ec4cd5237f678f/fonts/clashdisplay-semibold.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "IRANYekanFN-Bold";
+  src: url("https://anima-uploads.s3.amazonaws.com/5d388f5bdbae7e23db47b5ef/IRANYekanBoldFaNum.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "IRANYekanFN-Regular";
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/60e71142562cf33fb2eb2995/fonts/iranyekanbold.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "IRANYekanFN-Medium";
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/60e71142562cf33fb2eb2995/fonts/iranyekanbold.ttf")
+    format("truetype");
+}

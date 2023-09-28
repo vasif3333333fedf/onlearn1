@@ -1,0 +1,12 @@
+:root {
+  --brand-color: rgba(11, 112, 119, 1);
+  --brand-color-2: rgba(253, 102, 31, 1);
+  --gray: rgba(105, 105, 132, 1);
+  --black: rgba(35, 15, 15, 1);
+  --primary-primary-3: rgba(119, 119, 149, 1);
+  --grey-grey-2: rgba(77, 77, 77, 1);
+  --pri: rgba(11, 112, 119, 1);
+  --white: rgba(255, 255, 255, 1);
+  --effect: 0px 10px 60px 0px rgba(38, 45, 118, 0.08);
+  --sh: 0px 10px 60px 0px rgba(38, 45, 118, 0.08);
+}
